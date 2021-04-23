@@ -53,3 +53,5 @@ With Parcel's `--public-url` flag, use the following scripts for deployment:
 ```
 
 Then follow the normal procedure in GitHub Pages and select the `gh-pages` branch.
+
+FUNCTIONING WEBSITE :- http://anushka-tictactoegame.surge.sh/
